@@ -5,8 +5,12 @@ Created on Thu Jan 27 10:41:48 2022
 @author: dcsem
 """
 
+#testing gql
+# apis
 # Using the buildHeap method, write a sorting function that can sort a list
 # in O(nlogn) time.
+
+test_vat = 1
 
 def buildHeap(the_list):
         
